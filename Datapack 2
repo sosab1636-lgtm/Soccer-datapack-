@@ -1,1 +1,26 @@
-
+{
+  "PlayerData": [
+    {
+      "ID": 170905,
+      "Forename": "Tomás",
+      "Surname": "ARANDA",
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/170905.png"
+    },
+    {
+      "ID": 131162,
+      "Forename": "Elián",
+      "Surname": "IRALA",
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/131162.png"
+    },
+    {
+      "ID": 170920,
+      "Forename": "Nicolás",
+      "Surname": "BARROS SCHELOTTO",
+      "ImageURL": "https://cdn.soccerwiki.org/images/player/170920.png"
+    }
+  ],
+  "ClubData": [],
+  "LeagueData": [],
+  "CupData": [],
+  "StadiumData": []
+}
